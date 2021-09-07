@@ -1,14 +1,16 @@
 ## En conclusion
 
-* Les containers sont un nouveau paradigme
-* Sans orchestration, peu d'utilité des containers
-* La courbe d'apprentissage n'est pas négligeable
-* L'installation et la maintenance d'un orchestrateur prend du temps
+* Positionner les labels
+* IAM, privilegier : least-privilege
+* Mettre en place un alerting sur un % de dépense
+* Définir un process Finops
+* Réservation de ressources
+
 
 ----
 
 ### Conclusion
 
-* Docker et Kube c'est la vie
+* GCP offre un très beau terrain de jeu
 
-> Aujourd'hui, toutes les sociétés ont une stratégie d'implémentation Cloud et Container
+![lego](img/lego.png)

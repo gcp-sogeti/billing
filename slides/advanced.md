@@ -65,3 +65,10 @@ Les SKU sont des codes d'identification des services GCP
 ![Alerting](img/gcp-alerting.png)
 ![resources](img/gcp-alerting2.png)
 
+----
+
+## Optimisation des dépenses
+* [Sustained use discounts](https://cloud.google.com/compute/docs/sustained-use-discounts) 
+* [Committed use discounts](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts)
+	* B's : rédurection jusqu'à 57% 
+	* C's : engagement sur 1 ou 3 ans
