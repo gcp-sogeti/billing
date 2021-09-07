@@ -4,9 +4,9 @@
 
 ### Billing dans bigquery
 * Les informations liées au billing sont **exportées en continu dans Bigquery**.
-	* Table détaillée des coûts journalier, 
+	* Table détaillée des coûts journalier:
     > **gcp_billing_export_v1_<BILLING_ACCOUNT_ID>**
-	* Grille tarifaire, 
+	* Grille tarifaire:
     > **cloud_pricing_export**
 	
 
