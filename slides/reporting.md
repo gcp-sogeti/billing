@@ -30,13 +30,13 @@ ORDER BY 3 DESC;
 ```
 
 Resultat de la requete bigquery
-Row | month | description | cost_after_credits
---- | --- | --- | ---
-1 | 201906 | Compute engine | $1605.00
-2 | 201906 | Cloud Storage | $102.31
-3 | 201906 | App Engine | $1220.76
-4 | 201906 | BigQuery | $73.0
-5 | 201906 | cloud Pub/Sub | $0.0
+|Row | month | description | cost_after_credits
+| --- | --- | --- |--- |
+|1 | 201906 | Compute engine | $1605.00
+|2 | 201906 | Cloud Storage | $102.31
+|3 | 201906 | App Engine | $1220.76
+|4 | 201906 | BigQuery | $73.0
+|5 | 201906 | cloud Pub/Sub | $0.0
 
 ----
 
