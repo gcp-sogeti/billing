@@ -20,11 +20,12 @@
 
 ----
 
+test
 ## Creation d'un projet
 * Project Id : 6 à 30 caracteres
 * Services account :
-	Doit être présent au niveau de l'organisation ou un folder
-	Doit avoir le role Project Creator
+	* Doit être présent au niveau de l'organisation ou un folder
+	* Doit avoir le role Project Creator
 * Resource Manager, permet la gestion des folders 
 
 <img src="img/manage-resources.png" style="background:none; border:none; box-shadow:none;"/>
