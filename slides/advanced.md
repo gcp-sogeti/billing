@@ -40,3 +40,21 @@
 <img src="img/billing-gcp2.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
+
+## SKU
+Les SKU sont des codes d'identification des services GCP
+<a href="https://cloud.google.com/skus/legacy-ids">SKU description</a>
+
+----
+
+## Billing exports & Budget alerts
+* Export de la facturation 
+	* Bigquery
+	* Bucket (<b>DEPRECATED</b>)
+* Alerting
+	* Billing account
+	* Project
+
+<img src="img/gcp-alerting.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="img/gcp-alerting2.png" style="background:none; border:none; box-shadow:none;"/>
+
