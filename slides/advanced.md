@@ -20,7 +20,6 @@
 
 ----
 
-test
 ## Creation d'un projet
 * Project Id : 6 à 30 caracteres
 * Services account :
@@ -28,23 +27,21 @@ test
 	* Doit avoir le role Project Creator
 * Resource Manager, permet la gestion des folders 
 
-<img src="img/manage-resources.png" style="background:none; border:none; box-shadow:none;"/>
-
+![resources](img/manage-resources.png)
 ----
 
 ## La facturation
-<img src="img/billing-gcp.png" style="background:none; border:none; box-shadow:none;"/>
+![resources](img/billing-gcp.png)
 
 ----
 
 ## Le reporting
-<img src="img/billing-gcp2.png" style="background:none; border:none; box-shadow:none;"/>
-
+![resources](img/billing-gcp2.png)
 ----
 
 ## SKU
 Les SKU sont des codes d'identification des services GCP
-<a href="https://cloud.google.com/skus/legacy-ids">SKU description</a>
+[SKU description](https://cloud.google.com/skus/legacy-ids)
 
 ----
 
@@ -55,7 +52,6 @@ Les SKU sont des codes d'identification des services GCP
 * Alerting
 	* Billing account
 	* Project
-
-<img src="img/gcp-alerting.png" style="background:none; border:none; box-shadow:none;"/>
-<img src="img/gcp-alerting2.png" style="background:none; border:none; box-shadow:none;"/>
+![resources](img/gcp-alerting.png)
+![resources](img/gcp-alerting2.png)
 
