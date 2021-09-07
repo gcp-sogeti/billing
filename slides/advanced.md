@@ -11,13 +11,11 @@
 	* Accès à la facturation : roles/billing.viewer
 	* Attache / Détache des projets depuis le billing (sub)account : roles/billing.projectManager
 	
-<img src="img/access-control-org.png" style="background:none; border:none; box-shadow:none;"/>
-
+![Organization](img/access-control-org.png)
 ----
 
 ## Gestion des accès pour une organisation
-<img src="img/console-admin.png" style="background:none; border:none; box-shadow:none;"/>
-
+![accès](img/console-admin.png)
 ----
 
 ## Creation d'un projet
@@ -31,17 +29,17 @@
 ## Creation d'un projet
 * Resource Manager, permet la gestion des folders 
 
-![resources](img/manage-resources.png)
+![Project](img/manage-resources.png)
 
 ----
 
 ## La facturation
-![resources](img/billing-gcp.png)
+![Billing](img/billing-gcp.png)
 
 ----
 
 ## Le reporting
-![resources](img/billing-gcp2.png)
+![reporting](img/billing-gcp2.png)
 
 ----
 
@@ -51,13 +49,17 @@ Les SKU sont des codes d'identification des services GCP
 
 ----
 
-## Billing exports & Budget alerts
+## Billing exports
 * Export de la facturation 
 	* Bigquery
 	* Bucket (<b>DEPRECATED</b>)
+
+----
+
+## Budget alerts
 * Alerting
 	* Billing account
 	* Project
-![resources](img/gcp-alerting.png)
+![Alerting](img/gcp-alerting.png)
 ![resources](img/gcp-alerting2.png)
 
