@@ -1,5 +1,6 @@
 ## En conclusion
 
+* Changement de paradigme vis à vis du hosting Onprem
 * Positionner les labels
 * IAM, privilegier : least-privilege
 * Mettre en place un alerting sur un % de dépense
