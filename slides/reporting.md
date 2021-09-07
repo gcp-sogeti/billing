@@ -13,8 +13,7 @@
 ## Requetes dans bigquery
 ```sql
 SELECT
-  invoice.month,
-  service.description,
+  invoice.month, service.description,
   ROUND(SUM(cost) + SUM(IFNULL((
         SELECT
           SUM(c.amount)
@@ -26,13 +25,11 @@ FROM
 WHERE
   invoice.month = "201906"
 GROUP BY
-  1,
-  2
-ORDER BY
-  3 DESC;
+  1,2
+ORDER BY 3 DESC;
 ```
 
-Resultat de la requete
+Resultat de la requete bigquery
 Row | month | description | cost_after_credits
 --- | --- | --- | ---
 1 | 201906 | Compute engine | $1605.00
