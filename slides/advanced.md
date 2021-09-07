@@ -5,11 +5,11 @@
 ### Gestion des accès
 * Les projets (pas les folders) sont liés pour la facturation a un (sub)accounts
 * Associer les rôles 
-	Creation de billing account : roles/billing.creator
-	Administration des comptes de billing : roles/billing.admin
-	Creation de projet et association au billing account : roles/billing.user
-	Accès à la facturation : roles/billing.viewer
-	Attache / Détache des projets depuis le billing (sub)account : roles/billing.projectManager
+	* Creation de billing account : roles/billing.creator
+	* Administration des comptes de billing : roles/billing.admin
+	* Creation de projet et association au billing account : roles/billing.user
+	* Accès à la facturation : roles/billing.viewer
+	* Attache / Détache des projets depuis le billing (sub)account : roles/billing.projectManager
 	
 <img src="img/access-control-org.png" style="background:none; border:none; box-shadow:none;"/>
 
@@ -25,9 +25,14 @@
 * Services account :
 	* Doit être présent au niveau de l'organisation ou un folder
 	* Doit avoir le role Project Creator
+
+----
+
+## Creation d'un projet
 * Resource Manager, permet la gestion des folders 
 
 ![resources](img/manage-resources.png)
+
 ----
 
 ## La facturation
@@ -37,6 +42,7 @@
 
 ## Le reporting
 ![resources](img/billing-gcp2.png)
+
 ----
 
 ## SKU
