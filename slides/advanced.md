@@ -35,6 +35,15 @@
 
 ----
 
+## Strategie de labelling
+<img data-src="/img/invoice.png" height="420" width="200" />
+* Définir une strageie de labelling
+* Définir une convention de nommage
+
+![Project](img/manage-resources.png)
+
+----
+
 ## La facturation
 ![Billing](img/billing-gcp.png)
 
