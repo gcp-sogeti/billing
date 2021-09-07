@@ -12,10 +12,12 @@
 	* Attache / Détache des projets depuis le billing (sub)account : roles/billing.projectManager
 	
 ![Organization](img/access-control-org.png)
+
 ----
 
 ## Gestion des accès pour une organisation
 ![accès](img/console-admin.png)
+
 ----
 
 ## Creation d'un projet
