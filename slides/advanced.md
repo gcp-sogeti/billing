@@ -36,7 +36,7 @@
 ----
 
 ## Strategie de labelling
-* <img data-src="/img/invoice.png" height="50" width="50" />
+<img data-src="img/invoice.png" height="50" width="50" />
 * Définir une stratégie de labelling
 * Définir une convention de nommage
 
