@@ -2,7 +2,7 @@
 
 ----
 
-### Qui connait le réseau ?
+### Qui a des notions de billing ?
 
 ----
 
