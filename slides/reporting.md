@@ -45,3 +45,5 @@ Row | month | description | cost_after_credits
 
 ## Visualiser les dépenses avec Google Data Sutdio
 
+Google propose des templates permettant de suivre depuis Google Data Studio les dépenses
+![Data Studio](img/Billing-dashboard.png)
