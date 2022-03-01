@@ -12,4 +12,4 @@
 > Tony Jarriault<br />
 > Cloud Solution Architect @ Sogeti
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQElxOByYq-0vA/profile-displayphoto-shrink_800_800/0/1517696646689?e=1636588800&v=beta&t=I827nIRPAfHhI18C5DgOtvnAKoyDO3gpgLpIzjqL-a8" width="200px" />
+<img src="https://pbs.twimg.com/profile_images/1498351644228165632/ybgOufI__400x400.jpg" width="200px" />
